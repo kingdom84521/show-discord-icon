@@ -1,0 +1,7 @@
+{
+  "name": "show-discord-icon",
+  "private": true,
+  "workspaces": [
+    "src/*"
+  ]
+}
